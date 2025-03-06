@@ -13,8 +13,7 @@ This is a simple RESTful API for managing products. It provides functionality to
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo.git
-   cd your-repo
+   git clone https://github.com/Abdul-Samad-75/ProductManagementSystem.git
    ```
 2. Install dependencies:
    ```sh
